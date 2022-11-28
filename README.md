@@ -8,7 +8,7 @@ However, I'm working on a new and better looking front end for a weather app usi
 
 The proxy is a very simple setup that works by receiving the request from the front end, and adding the api key to the request before forwarding it to Open Weather Map. After the request is fulfilled, we send the response data back to the front end. In addition to hiding the API key, this solution also allows me to use rate limiting and caching to avoid any other shenanigans.
 
-I will link the front end here when I finish it up
+The front end is over on [this repo](https://github.com/sykoivisto/weather-app-v2)
 
 ## Credits
 
